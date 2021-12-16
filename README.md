@@ -2,6 +2,8 @@ In the command line enter:
 
 
 $ npm install
+
+
 $ npm build
 
 
