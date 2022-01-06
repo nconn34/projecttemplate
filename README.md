@@ -13,5 +13,7 @@ $ npm install
 $ npm run build
 
 
+$ npm start
+
 
 Then you are ready to start testing and breaking code! Have fun!
