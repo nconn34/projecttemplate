@@ -4,7 +4,7 @@ If you set this as a template you can use it for any project when creating a new
 
 **In the command line enter:
 
-$ git clone https://github.com/nconn34/repositorynamehere
+$ git clone https://github.com/yourGitHubusername/newrepositorynamehere
 
 ** Then enter:
 
