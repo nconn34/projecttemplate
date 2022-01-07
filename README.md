@@ -13,6 +13,9 @@ $ npm install
 $ npm run build
 
 
+$ npm install dotenv-webpack@2.0.0 --save-dev (in case you have not run this previously)
+
+
 $ npm start
 
 
